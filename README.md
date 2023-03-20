@@ -106,16 +106,20 @@ cv2.destroyAllWindows()
 ![1](https://user-images.githubusercontent.com/93427278/226400896-41dfd160-8b9b-466b-b2b9-b22271277890.png)
 
 ### ii) Display the video
-![Screenshot (20)](https://user-images.githubusercontent.com/93427278/226401159-048134ce-dcfa-4326-8082-339674b33080.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/93427278/226403398-07adb458-76ce-4440-80e3-e11273ce50cc.png)
 
 
-### iii) Display the video by resizing the window
 
-![Screenshot (21)](https://user-images.githubusercontent.com/93427278/226401180-2ea030ce-6333-4a46-bd18-ad5a47274f9c.png)
+### iii) Display the video by resizing the window!
+![Screenshot (21)](https://user-images.githubusercontent.com/93427278/226403530-8a33ba93-128d-4fe5-bb09-eb3257b26c15.png)
+
+
+
 
 
 ### iv) Rotate and display the video
-![Screenshot (22)](https://user-images.githubusercontent.com/93427278/226401267-3346a0de-7898-4ea9-84d5-4dc40dbf14e6.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/93427278/226403475-95c538ad-13cc-4cbb-863f-ddf7b1789b61.png)
+
 
 
 ## Result:
